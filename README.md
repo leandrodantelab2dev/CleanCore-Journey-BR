@@ -55,7 +55,7 @@ buildaccess.pt@lab2learn.com.br
 ```
 🔒 Senha:
 ```
-Lab2learn#2025.BR
+Lab2learn#2025.BR2
 ```
 
 
